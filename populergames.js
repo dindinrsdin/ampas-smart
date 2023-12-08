@@ -10,5 +10,5 @@
     		el.innerHTML = populergame;
     		var div = document.getElementsByClassName('bg-primary p-3 mb-2 rounded-lg');
     		insertAfter(div[0], el);
-		}, 5000);
+		}, 3000);
 	});
